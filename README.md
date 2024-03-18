@@ -33,6 +33,7 @@
   ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Webmin](https://img.shields.io/badge/Webmin-%237DA0D0?style=for-the-badge&logo=webmin&logoColor=white&labelColor=%237DA0D0)
+  ![Active Directory](https://img.shields.io/badge/Active_Directory-%2321759B?style=for-the-badge&logoColor=white&labelColor=%2321759B)
   
 
 </div>
@@ -49,6 +50,19 @@
   ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD.svg?style=for-the-badge&logo=Metasploit&logoColor=white)
   ![Pfsense](https://img.shields.io/badge/PFSense-%23212121?style=for-the-badge&logo=pfsense&logoColor=white&labelColor=%23212121)
   ![wireshark](https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=Wireshark&logoColor=white)
+  
+</div>
+
+## <div align="center">Servidores</div>
+
+<div align="center">
+
+  ![DHCP](https://img.shields.io/badge/DHCP-%2321759B?style=for-the-badge&logoColor=white&labelColor=%2321759B)
+  ![DNS](https://img.shields.io/badge/DNS-%232175?style=for-the-badge&logo=dns&logoColor=white&labelColor=%2321759F)
+  ![FTP](https://img.shields.io/badge/FTP-%2321745A?style=for-the-badge&logoColor=white&labelColor=%2321759B)
+  ![POP3/IMAP](https://img.shields.io/badge/POP3%2FIMAP-%6321751?style=for-the-badge&logoColor=white&labelColor=%2321759B)
+  ![HTTP](https://img.shields.io/badge/HTTP-%2321559B?style=for-the-badge&logoColor=white&labelColor=%2321759B)
+  ![CUPS](https://img.shields.io/badge/CUPS-%2311A59B?style=for-the-badge&logoColor=white&labelColor=%2321759B)
   
 </div>
 
