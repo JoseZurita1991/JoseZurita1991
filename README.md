@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=CD5C5C&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Jos%C3%A9+Manuel+Zurita" alt="Typing SVG" /></a></p>
+<a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=CD5C5C&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Jos%C3%A9+Manuel+Zurita" alt="José Manuel Zurita" /></a></p>
   
 ###### **<div align="center">ASIR 🖥️ | Ciberseguridad 🛡️</div>**  
 
