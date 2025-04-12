@@ -120,7 +120,3 @@
 
 </td></tr>  
 </td><br>
-
-<br>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1936778" style='border:none;'></iframe>
-</br>
